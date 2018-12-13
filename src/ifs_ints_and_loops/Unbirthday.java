@@ -5,7 +5,7 @@ import javax.swing.JOptionPane;
 public class Unbirthday {
 	public static void main(String[] args) {
 	String birthday=	JOptionPane.showInputDialog(null, "When is your birthday?(Include the month and day only. no capitals)");
-	if(birthday.equals("December 5")) {
+	if(birthday.equals("december 12")) {
 		JOptionPane.showMessageDialog(null, "Happy Birthday!!!");
 		
 	}
